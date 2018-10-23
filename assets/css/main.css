@@ -33,9 +33,7 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
-	list-style: none;
-}
+
 
 blockquote, q {
 	quotes: none;
@@ -46,31 +44,17 @@ blockquote, q {
 		content: none;
 	}
 
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
 
-body {
-	-webkit-text-size-adjust: none;
-}
+
+
 
 mark {
 	background-color: transparent;
 	color: inherit;
 }
 
-input::-moz-focus-inner {
-	border: 0;
-	padding: 0;
-}
 
-input, select, textarea {
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	-ms-appearance: none;
-	appearance: none;
-}
+
 
 /* Basic */
 
